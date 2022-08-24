@@ -195,6 +195,7 @@ function Notification() {
       </a>
       <footer>
         <div>✔ Succeeded</div>
+        {/* <div>zeee</div> */}
         <div>Just now</div>
       </footer>
     </aside>
